@@ -51,7 +51,7 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 | values | Array[] | Ölçüye ait besin değerleri |
 
 | Değer  | Tip  |  Açıklama  |
-| ---------- | ------ |
+| ---------- | ------ | ------ |
 | amount | Float | Ağırlık |
 | calcium | Float | Kalsiyum |
 | calory | Float | Kalori |
