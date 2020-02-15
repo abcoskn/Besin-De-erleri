@@ -5,7 +5,7 @@
 
 POST URL: https://www.abctasarim.net/diyet/search.php
 
-# Post Parametreleri
+## Post Parametreleri
 
 | Parametre  | Tip  | Gerekli | Açıklama |
 | ---------- | ------ | --------- | --------- |
@@ -13,7 +13,7 @@ POST URL: https://www.abctasarim.net/diyet/search.php
 
 
 
-# Cevap Parametreleri
+## Cevap Parametreleri
 
 | Parametre  | Açıklama  |
 | ---------- | ------ |
@@ -29,7 +29,7 @@ POST URL: https://www.abctasarim.net/diyet/search.php
 
 POST URL: https://www.abctasarim.net/diyet/get.php
 
-# Post Parametreleri
+## Post Parametreleri
 
 | Parametre  | Tip  | Gerekli | Açıklama |
 | ---------- | ------ | --------- | --------- |
@@ -37,7 +37,7 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 
 
 
-# Cevap Parametreleri
+## Cevap Parametreleri
 
 | Parametre  | Tip  |  Açıklama  |
 | ---------- | ------ |
