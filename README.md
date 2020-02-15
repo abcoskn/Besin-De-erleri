@@ -40,15 +40,15 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 ## Cevap Parametreleri
 
 | Parametre  | Tip  |  Açıklama  |
-| ---------- | ------ |
+| ---------- | ------ | ------ |
 | name | String | Besin Adı |
 | img | String | Besin Resmi |
-| units | Array[] | Ölçü Dizisi |
+| units | Array | Ölçü Dizisi |
 
 | Değer  | Tip  |  Açıklama  |
-| ---------- | ------ |
+| ---------- | ------ | ------ |
 | name | String | Ölçü |
-| values | Array[] | Ölçüye ait besin değerleri |
+| values | Array | Ölçüye ait besin değerleri |
 
 | Değer  | Tip  |  Açıklama  |
 | ---------- | ------ | ------ |
