@@ -95,7 +95,7 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 ### Values Dizisi
 | Değer  | Tip  |  Açıklama  |
 | ---------- | ------ | ------ |
-| amount | Float | Ağırlık |
+| amount | Float | Ağırlık (gr) |
 | calcium | Float | Kalsiyum |
 | calory | Float | Kalori |
 | carbohydrt | Float | Karbonhidrat |
