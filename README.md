@@ -86,11 +86,13 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 | img | String | Besin Resmi |
 | units | Array | Ölçü Dizisi |
 
+### Units Dizisi
 | Değer  | Tip  |  Açıklama  |
 | ---------- | ------ | ------ |
 | name | String | Ölçü |
 | values | Array | Ölçüye ait besin değerleri |
 
+### Values Dizisi
 | Değer  | Tip  |  Açıklama  |
 | ---------- | ------ | ------ |
 | amount | Float | Ağırlık |
