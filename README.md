@@ -13,7 +13,7 @@ POST URL: https://www.abctasarim.net/diyet/search.php
 
 
 
-# Response Parameters
+# Cevap Parametreleri
 
 | Parametre  | Açıklama  |
 | ---------- | ------ |
@@ -25,11 +25,11 @@ POST URL: https://www.abctasarim.net/diyet/search.php
 
 
 
-# Get Detailed Nutritional Values
+# Detaylı Besin İçerikleri
 
 POST URL: https://www.abctasarim.net/diyet/get.php
 
-# Post Parameters
+# Post Parametreleri
 
 | Parametre  | Tip  | Gerekli | Açıklama |
 | ---------- | ------ | --------- | --------- |
