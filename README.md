@@ -23,7 +23,7 @@ POST URL: https://www.abctasarim.net/diyet/search.php
 | unit | Ölçü |
 | cal | Kalori |
 
-##Örnek
+## Örnek
 
 ```
 [
@@ -108,7 +108,7 @@ POST URL: https://www.abctasarim.net/diyet/get.php
 | vit_a_iu | Float | Vitamin A |
 | vit_c | Float | Vitamin C |
 
-##Örnek
+## Örnek
 
 ```
 
